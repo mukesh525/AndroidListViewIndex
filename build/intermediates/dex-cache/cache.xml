@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d390994cfe1207a00a75452eb8a859baba560337">
+        <dex dex="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_429a156599f119900850d44f5609d739c20c6afa/classes.dex" />
+    </item>
+    <item
+        jar="/home/mukesh/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_dca19570cb3d337d313b5ef35b0a46736ffc3c40/classes.dex" />
+    </item>
+    <item
+        jar="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ded4af11f8db5fa43dd37c9dfae6b19e31cca2e7">
+        <dex dex="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6ace5a3400d34422494128f356aeaf52a4ee1667/classes.dex" />
+    </item>
+
+</items>

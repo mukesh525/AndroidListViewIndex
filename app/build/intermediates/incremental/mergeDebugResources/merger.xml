@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res"/><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/generated/res/rs/debug"/><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res"><file name="ic_launcher" path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="main" path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file name="ic_launcher" path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/values/strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="app_name">AndroidListViewIndex</string><string-array name="fruits_array">
+        <item>Apples</item>
+        <item>Apricots</item>
+        <item>Avocado</item>
+        <item>Annona</item>
+        <item>Banana</item>
+        <item>Blueberry</item>
+        <item>Blackberry</item>
+        <item>Blackapple</item>
+        <item>Custard Apple</item>
+        <item>Clementine</item>
+        <item>Cantalope</item>
+        <item>Date</item>
+        <item>Elderberry</item>
+        <item>Fig</item>
+        <item>Grapefruit</item>
+        <item>Grape</item>
+        <item>Gooseberry</item>
+        <item>Guava</item>
+        <item>Honeydew melon</item>
+        <item>Jackfruit</item>
+        <item>Juniper Berry</item>
+        <item>Kiwi</item>
+        <item>Kumquat</item>
+        <item>Lemons</item>
+        <item>Limes</item>
+        <item>Lychee</item>
+        <item>Mango</item>
+        <item>Mandarin</item>
+        <item>Nectaraine</item>
+        <item>Orange</item>
+        <item>Olive</item>
+        <item>Prunes</item>
+        <item>Pears</item>
+        <item>Plum</item>
+        <item>Pineapple</item>
+        <item>Peach</item>
+        <item>Papaya</item>
+        <item>Pomelo</item>
+        <item>Raspberries</item>
+        <item>Rambutan</item>
+        <item>Strawberries</item>
+        <item>Sweety</item>
+        <item>Salmonberry</item>
+        <item>Tangerines</item>
+        <item>Tomato</item>
+        <item>Ugli</item>
+        <item>Watermelon</item>
+        <item>Woodapple</item>
+    </string-array></file><file name="side_index_item" path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/layout/side_index_item.xml" qualifiers="" type="layout"/><file name="activity_main" path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file></source><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/generated/res/rs/debug"/><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/mukesh/Desktop/quickblox-android-sdk-master/AndroidListViewIndex/app/src/debug/res"/></dataSet><mergedItems/></merger>
